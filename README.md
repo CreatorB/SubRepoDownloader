@@ -6,15 +6,17 @@
 
 ## Technology
 
-based of svn
+* svn based
 
 ## How To Use
 
 <code>$ git clone git@github.com:CreatorB/SubRepoDownloader</code>
+
 <code>$ ./download.sh [Tree Repo]</code>
 
 Example : 
 i want to just only clone login screen code on https://github.com/pondokprogrammer/mobile-dev/tree/master/android/Login so my code is :
+
 <code>./download.sh pondokprogrammer/mobile-dev/tree/master/android/Login</code>
 
 ## Notes
