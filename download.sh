@@ -1,8 +1,3 @@
-#####################################################
-#Author	: creatorb
-#Desc	: Github Sub Repository Downloader
-#Code	: GD.1
-#####################################################
 GHDOMAIN="https://github.com/"
 IN=$1
 IN=${IN##$GHDOMAIN}
